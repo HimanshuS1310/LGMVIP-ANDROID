@@ -1,6 +1,6 @@
 # lgmtask3
 
-A new Flutter project.
+Augmented Faces with ARCore in Android.
 
 ## Getting Started
 
